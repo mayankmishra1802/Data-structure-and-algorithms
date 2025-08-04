@@ -1,0 +1,77 @@
+# ========================
+# OS-SPECIFIC FILES
+# ========================
+
+# Windows thumbnail and config files
+Thumbs.db
+desktop.ini
+
+# MacOS (in case you open repo on Mac later)
+.DS_Store
+
+# ========================
+# LANGUAGE-SPECIFIC FILES
+# ========================
+
+# C/C++
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Linker files
+*.ilk
+
+# Debugger Files
+*.pdb
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# debug information files
+*.dwo
+
+# ========================
+# IDE/EDITOR-SPECIFIC FILES
+# ========================
+
+# VS Code
+.vscode/
+
+
+# ========================
+# MISC
+# ========================
+
+# Log files
+*.log
+
+# Backup files
+*~
+*.swp
+*.swo
